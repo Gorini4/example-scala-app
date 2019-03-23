@@ -1,5 +1,5 @@
 // package определяет положение объектов в логической структуре кода
-package org.npl
+package org.example
 
 // Импортируем форматы и методы для парсинга из библиотеки json4s
 // https://github.com/json4s/json4s
