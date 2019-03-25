@@ -6,7 +6,7 @@
 
 Для запуска в папке проекта последовательно выполните две команды:
 1. `sbt assembly`
-1. `java -jar target/scala-2.12/sbt-proj-assembly-0.1.jar`
+1. `java -cp target/scala-2.12/sbt-proj-assembly-0.1.jar org.example.JsonApp`
 
 Результатом выполнения будет одна строчка:
 
